@@ -6,4 +6,6 @@ Co zawiera?:
 - informacje wraz z regulaminem
 - wyraziste UI
 
+- discord: https://discord.gg/HtPSCZrxnC
+
 ![unknown](https://cdn.discordapp.com/attachments/949057955444187176/963141702724485250/unknown.png)
