@@ -1,0 +1,8 @@
+#TODO
+
+| Zarządzanie Światami [UI/LUA]:
+1. Po wybraniu światu extractowanie identyfikatora na dany świat oraz powiadomienie w Menu [UI/LUA]
+2. Jeżeli identyfikator jest na danym świecie, menu się aktualizuje i pokazuje wybrany świat z opcją powrócenia na główny świat [UI/LUA]
+
+| Zarządzanie Światami [UI]:
+1. Menu dialogowe z opcjami wybrania światów, po najechaniu na element menu obok z informacjami o danym świecie [ilość graczy, tryb] [UI]

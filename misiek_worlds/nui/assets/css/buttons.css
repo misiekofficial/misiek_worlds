@@ -1,0 +1,51 @@
+.btn {
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    border-width: 2px !important;
+
+    margin: 15px !important;
+
+    padding: 10px !important;
+
+    background: transparent !important;
+    
+    border: 2px solid rgb(53, 48, 50) !important;
+
+    border-bottom-width: 2px !important;
+    border-bottom-color: rgb(247, 9, 100) !important;
+
+    color: rgba(255, 255, 240, 0.541) !important;
+
+    transition: all .3s ease !important;
+}
+
+.btn:hover {
+    color: rgb(223, 8, 72) !important;
+    background: rgba(223, 8, 73, 0.274) !important;
+    background-image: radial-gradient(black 33%, transparent 33%) !important;
+	background-size: 3px 3px !important;
+
+    border: 2px solid rgb(223, 8, 72) !important;
+
+    animation: uphover .3s ease !important;
+}
+
+.btn-disabled {
+    color: rgb(54, 49, 49) !important;
+    background-color: transparent !important;
+
+    padding: 10px !important;
+
+    border: 2px solid rgb(53, 48, 50) !important;
+}
+
+@keyframes uphover {
+    0% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+    100% {
+        -webkit-transform: translateY(0px);
+        transform: translateY(0px);
+    }
+}
